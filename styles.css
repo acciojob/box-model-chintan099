@@ -5,7 +5,7 @@
 	border-radius:50%;
 	
 }
-.main{
+.container{
 	display:flex;
 	border:2px solid black;
 	border-radius:15px;
