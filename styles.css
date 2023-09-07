@@ -5,6 +5,15 @@
 	border-radius:50%;
 	
 }
+.red{
+	background-color:red;
+}
+.green{
+	background-color:green;
+}
+.yellow{
+	background-color:yellow;
+}
 .container{
 	display:flex;
 	border:2px solid black;
